@@ -1,0 +1,7 @@
+/* Put any additional CSS here */
+
+#canvas{
+    height: 600px;
+    width: 800px;
+    border: solid #e4b9b9 1px;
+}
